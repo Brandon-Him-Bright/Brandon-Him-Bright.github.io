@@ -4,7 +4,6 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://brandon-him-bright.github.io/ # you must change this appropriately for RSS feeds to work properly
   title: "Brandon Bright E Portfolio"
   navbar:
     left: 
