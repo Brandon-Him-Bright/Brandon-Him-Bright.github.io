@@ -4,6 +4,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
+  site-url: https://brandon-him-bright.github.io/ # you must change this appropriately for RSS feeds to work properly
   title: "Brandon Bright E Portfolio"
   navbar:
     left: 
@@ -20,9 +21,7 @@ website:
         href: mailto:btbright@uark.edu
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
 
 editor: visual
